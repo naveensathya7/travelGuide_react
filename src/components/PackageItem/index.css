@@ -1,0 +1,22 @@
+.thumbnail-image {
+  width: 100%;
+}
+.place-name {
+  color: #475569;
+  margin-bottom: 5px;
+}
+.details-container {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.place-description {
+  color: #64748b;
+  font-size: 15px;
+  margin-top: 0px;
+}
+.list-item {
+  width: 40%;
+  margin-top: 10px;
+  margin-right: 10px;
+  background-color: #ffffff;
+}
